@@ -1,0 +1,25 @@
+
+Disclaimer: This program software is developed by individuals and is not open source. 
+It is for review expert validation only.
+
+This software development is based on :matlab2021a; python 3.6.13; pytorch 1.8.0. 
+please use the appropriate version.
+
+Annex contents:  Annex contents: 3 sets of image data; 3 sets of acoustic data; test software.
+image data (img_data.m)
+acoustic data (aco_data.m)
+All data and programs are stored in matlab file format(.m; .mat; .mlapp)
+
+Test software: 
+1. System test version must be matlab 2021a or higher.
+2. The test software is an offline version that simulates the recognition of penetration levels, welding parameter adjustment and cannot receive return values from the robot.
+3. There are 3 test samples in the test software.
+4. Please store all programs in the same folder
+5. To test, run the main programme. (main.mlapp)
+6. If the test software is unavailable or incorrect, please contact me. I will provide a packaged version after integration.
+
+If additional software, programs, algorithms, data are required for the dissertation review process. 
+Please let us know. 
+
+Thank you for your work.
+Good work and health！！！
